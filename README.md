@@ -1,6 +1,6 @@
 - 👋 Hi, I’m frank
 - 👀 I’m interested in coding and the open source community
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning reinforcement learning
 - 💞️ I’m looking to collaborate on any fun project
 - 📫 How to reach me: suwenw2@outlook.com
 
