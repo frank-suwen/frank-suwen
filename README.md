@@ -1,6 +1,6 @@
-- 👋 Hi, I’m frank
+- 👋 Hi, I’m Frank
 - 👀 I’m interested in coding and the open source community
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and system programming
 - 💞️ I’m looking to collaborate on any fun project
 - 📫 How to reach me: suwenw2@outlook.com
 
